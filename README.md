@@ -1,6 +1,10 @@
-# Aloha
+# Aloha 👋
 
-I am a full stack developer that loves tinkering with computers and making games!
+- 🔭 I'm a full stack developer
+- 💻 I enjoy tinkering with computers and hardware
+- 🎹 I'm an avid musician
+- 🌱 I'm currently learning ```react-native```
+ 
 
 [![NotARoomba's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord)]()
 
