@@ -1,5 +1,6 @@
 # Aloha 👋
 
+<br clear="left"/>
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
