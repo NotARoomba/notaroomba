@@ -1,7 +1,7 @@
 # Aloha 👋
 
 
- <img align="right" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
+ <img align="right" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed&show=reviews,discussions_started,discussions_answered">
  
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
