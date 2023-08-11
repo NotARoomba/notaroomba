@@ -7,7 +7,7 @@
 #### - 🎹 I'm an avid musician
 #### - 🌱 I'm currently learning ```react-native```
 
- <img align="left" height="200" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10">
+ <img align="left" height="175" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10">
 
 <h3 align="center">My Skills</h3>
  <img align="right" src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity&perline=10">
