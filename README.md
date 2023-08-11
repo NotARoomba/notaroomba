@@ -1,16 +1,14 @@
 # Aloha 👋
 
 
- <img align="right" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
- 
+ <img align="right" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=donut&theme=github_dark_dimmed&langs_count=10">
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
 - 🌱 I'm currently learning ```react-native```
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity&perline=6)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=donut-vertical&theme=github_dark_dimmed&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
