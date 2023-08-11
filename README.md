@@ -1,13 +1,14 @@
 # Aloha 👋
 
-<img align="right" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
  
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
 - 🌱 I'm currently learning ```react-native```
 
- <img align="left" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=donut-vertical&theme=github_dark_dimmed&langs_count=10">
+
+<img align="right" height="200" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
+ <img align="left" height="200" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=donut-vertical&theme=github_dark_dimmed&langs_count=10">
 
  <img align="right" src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity">
 <!--
