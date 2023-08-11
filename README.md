@@ -8,7 +8,7 @@
 - 🎹 I'm an avid musician
 - 🌱 I'm currently learning ```react-native```
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,cpp,java&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity&perline=6)](https://skillicons.dev)
 
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
