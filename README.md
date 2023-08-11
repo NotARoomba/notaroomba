@@ -7,7 +7,8 @@
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
 - 🌱 I'm currently learning ```react-native```
- <!-- [![NotARoomba's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord)]()
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,tailwind&perline=3)](https://skillicons.dev)
 
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
