@@ -1,5 +1,7 @@
 # Aloha
 
+I am a full stack developer that loves tinkering with computers and making games!
+
 [![NotARoomba's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord)]()
 
 <!--
