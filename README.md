@@ -1,11 +1,11 @@
 # Aloha 👋
 
- <img align="right top" src="https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord">
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
 - 🌱 I'm currently learning ```react-native```
 
+ <img align="right top" src="https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord">
  <!-- [![NotARoomba's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaroomba&show_icons=true&theme=nord)]()
 
 <!--
