@@ -7,9 +7,9 @@
 ### - 🎹 I'm an avid musician
 ### - 🌱 I'm currently learning ```react-native```
 
- <img align="center" height="200" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10">
+ <img align="left" height="200" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10">
 
- <img align="right" src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity">
+ <img align="right" src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity&perline=6">
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
