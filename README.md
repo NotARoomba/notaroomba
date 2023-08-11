@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mongo,tailwind,c,cpp,rust,java,unity&perline=6)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notaroomba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notaroomba&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
