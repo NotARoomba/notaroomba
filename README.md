@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning ```react-native```
 
 
-<img align="center" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=donut&theme=github_dark_dimmed&langs_count=10"> 
+<img align="center" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10"> 
  
 
 ---
