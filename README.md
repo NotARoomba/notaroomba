@@ -6,7 +6,7 @@
 <p> - 🔭 I'm a full stack developer</p>
 <p> - 💻 I enjoy tinkering with computers and hardware</p>
 <p> - 🎹 I'm an avid musician</p>
-<p> - 🌱 I'm currently learning ```react-native```</p>
+<p> - 🌱 I'm currently learning react-native</p>
 
  <img align="left" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10"> 
  
