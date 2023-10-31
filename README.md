@@ -1,7 +1,8 @@
 # Aloha 👋
-<p align="center">
+
+
 <img align="center" height="175" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
-</p>
+
  
 
 - 🔭 I'm a full stack developer
