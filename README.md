@@ -6,7 +6,7 @@
 - 🔭 I'm a full stack developer
 - 💻 I enjoy tinkering with computers and hardware
 - 🎹 I'm an avid musician
-- 🌱 I'm currently learning react-native
+- 🌱 I'm currently learning ```react-native```
 
  <img align="left" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10"> 
  
