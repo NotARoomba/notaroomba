@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">My Skills</h3>
+## My Skills
  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,c,cpp,rust,java&perline=10">
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
