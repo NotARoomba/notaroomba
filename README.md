@@ -1,23 +1,22 @@
-# Aloha 👋
+<h1 align="center">🚀 Aloha, I'm Nathan (NotARoomba) 🚀</h1>
 
-
- <img align="center" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10"> 
- 
-
-
-- 🔭 I'm a full stack developer
+- 🔭 Full stack developer
+  
 - 💻 I enjoy tinkering with computers and hardware
+  
 - 🎹 I'm an avid musician
-- 🌱 I'm currently learning ```react-native```
-
-
+  
+- 🌱 I'm currently learning **React-Native**
+<img align="left" height="180" src="https://github-readme-stats-notaroomba.vercel.app/api/top-langs/?username=notaroomba&layout=compact&theme=github_dark_dimmed&langs_count=10"> 
 <img align="center" height="175" src="https://github-readme-stats-notaroomba.vercel.app/api?username=notaroomba&show_icons=true&theme=github_dark_dimmed">
 
 
----
+<!-- --- -->
 
-## My Skills
- <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,c,cpp,rust,java&perline=10">
+<!-- <h2>⚙️ My Skills</h2> -->
+<!--  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,c,cpp,rust,java&perline=10"> -->
+
+
 <!--
 **NotARoomba/notaroomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
